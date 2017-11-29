@@ -23,3 +23,8 @@
 	https://github.com/lubuzzo/checkout-transparente-PagSeguro
 	</a>
 </p>
+
+<p>
+	<b>Rotas</b><br />
+	Na pasta ./route/web.php você encontrará todas as rotas do aplicativo, e fazer um percusso de como cada coisa funciona no backend.
+</p>
