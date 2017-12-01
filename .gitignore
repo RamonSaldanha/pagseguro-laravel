@@ -2,7 +2,7 @@
 /public/hot
 /public/storage
 /storage/*.key
-/bootstrap/
+/bootstrap
 /app/Console
 /app/Exceptions
 /app/Http
