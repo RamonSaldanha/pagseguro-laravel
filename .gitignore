@@ -2,14 +2,6 @@
 /public/hot
 /public/storage
 /storage/*.key
-/bootstrap
-/app/Console
-/app/Exceptions
-/app/Http
-/app/Providers
-/database
-/storage
-/tests
 /vendor
 /.idea
 /.vagrant
