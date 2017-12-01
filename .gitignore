@@ -7,7 +7,6 @@
 /app/Exceptions
 /app/Http
 /app/Providers
-/app/User.php
 /database
 /storage
 /tests
