@@ -9,7 +9,7 @@ return [
      */
     'credentials' => [//INFORME AS CREDENCIAIS PADRÕES DE SUA LOJA, MAS PORDERÁ SER ALTERADA EM RUNTIME
         'email' => 'ramon_isaac2004@hotmail.com',
-        'token' => 'EB3410554F504A1DA2C9B7A65612D7EE',
+        'token' => 'xx',
     ],
 
     /*
